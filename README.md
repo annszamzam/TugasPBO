@@ -31,6 +31,7 @@ for i in range(1, 101):
 # Penjelasan
 #Program tersebut digunakan untuk mencetak pesan apakah setiap nilai i dari 0 hingga n-1 habis dibagi 3 atau tidak.Dengan demikian, hasil output dari program ini akan memberikan informasi tentang sisa hasil bagi setiap nilai i dengan 3 dalam rentang dari 0 hingga n-1.
  b. While Loops
+ ![alt](https://github.com/annszamzam/TugasPBO/blob/main/22.png?raw=true)
 # Program dengan While Loops
 
 # Menerima input dari pengguna
