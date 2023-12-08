@@ -1,5 +1,7 @@
 # TugasPBO
 # 1.Buatlah perulangan hingga 100 menggunakan Python dengan output sebagai berikut:
+
+![alt](https://github.com/annszamzam/TugasPBO/blob/main/1.png?raw=true)
 nama = "Annas Zam Zam"
 
 for i in range(1, 101):
