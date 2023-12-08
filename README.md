@@ -50,6 +50,7 @@ while i < n:
 # Penjelasan
 #Program tersebut digunakan untuk mencetak pesan apakah setiap nilai i dari 0 hingga n-1 habis dibagi 2 atau tidak menggunakan perulangan while.Dengan demikian, hasil output dari program ini akan memberikan informasi tentang sisa hasil bagi setiap nilai i dengan 2 dalam rentang dari 0 hingga n-1.
 # 3.Buatlah sebuah variabel dengan tipe data array, kemudian tampilkan semua nilai dalam variabel tersebut menggunakan perulangan for
+![alt](https://github.com/annszamzam/TugasPBO/blob/main/3.png?raw=true)
 # Membuat variabel dengan tipe data array
 my_array = [1, 2, 3, 4, 5]
 
