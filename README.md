@@ -15,6 +15,7 @@ for i in range(1, 101):
 #kode diatas adalah sebuah program Python yang melakukan perulangan dari 1 hingga 100. Pada setiap iterasi, program memeriksa apakah nilai i habis dibagi 10 dan lebih besar dari 1. Jika kondisi tersebut terpenuhi, program akan mencetak nama "Annas Zam Zam" sebanyak tiga kali.Jadi, secara keseluruhan, program ini mencetak angka dari 1 hingga 100, dan untuk setiap kelipatan 10 (kecuali 10), nama "Annas Zam Zam" dicetak tiga kali.
 # 2.Buatlah program bebas, dengan menerapkan if else pada:
  a. For Loops
+ ![alt](https://github.com/annszamzam/TugasPBO/blob/main/2.png?raw=true)
   # Program dengan For Loops
 
   # Menerima input dari pengguna
